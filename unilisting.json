@@ -6,6 +6,329 @@
     {
         "name": "Obafemi Awolowo University",
         "location": "Ile-Ife, Nigeria"
+    },
+    {
+        "name": "Ahmadu Bello University",
+        "location": "Zaria, Nigeria"
+    },
+    {
+        "name": "University of Ibadan",
+        "location": "Ibadan, Nigeria"
+    },
+    {
+        "name": "University of Benin",
+        "location": "Benin City, Nigeria"
+    },
+    {
+        "name": "University of Nigeria, Nsukka",
+        "location": "Nsukka, Nigeria"
+    },
+    {
+        "name": "Covenant University",
+        "location": "Ota, Nigeria"
+    },
+    {
+        "name": "Federal University of Technology, Akure",
+        "location": "Akure, Nigeria"
+    },
+    {
+        "name": "Ladoke Akintola University of Technology",
+        "location": "Ogbomosho, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ado-Ekiti",
+        "location": "Ado-Ekiti, Nigeria"
+    },
+    {
+        "name": "Kwara State Polytechnic",
+        "location": "Ilorin, Nigeria"
+    },
+    {
+        "name": "Federal University of Petroleum Resources",
+        "location": "Effurun, Nigeria"
+    },
+    {
+        "name": "University of Abuja",
+        "location": "Abuja, Nigeria"
+    },
+    {
+        "name": "Nnamdi Azikiwe University",
+        "location": "Awka, Nigeria"
+    },
+    {
+        "name": "University of Ilorin",
+        "location": "Ilorin, Nigeria"
+    },
+    {
+        "name": "Federal University of Agriculture, Abeokuta",
+        "location": "Abeokuta, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Bida",
+        "location": "Bida, Nigeria"
+    },
+    {
+        "name": "Federal University of Technology, Minna",
+        "location": "Minna, Nigeria"
+    },
+    {
+        "name": "Kogi State University",
+        "location": "Anyigba, Nigeria"
+    },
+    {
+        "name": "Federal University of Technology, Owerri",
+        "location": "Owerri, Nigeria"
+    },
+    {
+        "name": "Abubakar Tafawa Balewa University",
+        "location": "Bauchi, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ilaro",
+        "location": "Ilaro, Nigeria"
+    },
+    {
+        "name": "Ekiti State University",
+        "location": "Ado-Ekiti, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Offa",
+        "location": "Offa, Nigeria"
+    },
+    {
+        "name": "Federal University, Lokoja",
+        "location": "Lokoja, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Nekede",
+        "location": "Nekede, Nigeria"
+    },
+    {
+        "name": "Federal University, Wukari",
+        "location": "Wukari, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Oko",
+        "location": "Oko, Nigeria"
+    },
+    {
+        "name": "Federal University, Lafia",
+        "location": "Lafia, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ede",
+        "location": "Ede, Nigeria"
+    },
+    {
+        "name": "Federal University, Gusau",
+        "location": "Gusau, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ado-Hd",
+        "location": "Ado-Ekiti, Nigeria"
+    },
+    {
+        "name": "Federal University, Kashere",
+        "location": "Kashere, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Nasarawa",
+        "location": "Nasarawa, Nigeria"
+    },
+    {
+        "name": "Federal University, Dutsin-Ma",
+        "location": "Dutsin-Ma, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Auchi",
+        "location": "Auchi, Nigeria"
+    },
+    {
+        "name": "Federal University, Gashua",
+        "location": "Gashua, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ekowe",
+        "location": "Ekowe, Nigeria"
+    },
+    {
+        "name": "Federal University, Ndifu-Alike",
+        "location": "Ndifu-Alike, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ile-Oluji",
+        "location": "Ile-Oluji, Nigeria"
+    },
+    {
+        "name": "Federal University, Otuoke",
+        "location": "Otuoke, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Kaura-Namoda",
+        "location": "Kaura-Namoda, Nigeria"
+    },
+    {
+        "name": "Federal University, Birnin Kebbi",
+        "location": "Birnin Kebbi, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Offa",
+        "location": "Offa, Nigeria"
+    },
+    {
+        "name": "Federal University, Gusau",
+        "location": "Gusau, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ado-Hd",
+        "location": "Ado-Ekiti, Nigeria"
+    },
+    {
+        "name": "Federal University, Kashere",
+        "location": "Kashere, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Nasarawa",
+        "location": "Nasarawa, Nigeria"
+    },
+    {
+        "name": "Federal University, Dutsin-Ma",
+        "location": "Dutsin-Ma, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Auchi",
+        "location": "Auchi, Nigeria"
+    },
+    {
+        "name": "Federal University, Gashua",
+        "location": "Gashua, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ekowe",
+        "location": "Ekowe, Nigeria"
+    },
+    {
+        "name": "Federal University, Ndifu-Alike",
+        "location": "Ndifu-Alike, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ile-Oluji",
+        "location": "Ile-Oluji, Nigeria"
+    },
+    {
+        "name": "Federal University, Otuoke",
+        "location": "Otuoke, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Kaura-Namoda",
+        "location": "Kaura-Namoda, Nigeria"
+    },
+    {
+        "name": "Federal University, Birnin Kebbi",
+        "location": "Birnin Kebbi, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ede",
+        "location": "Ede, Nigeria"
+    },
+    {
+        "name": "Federal University, Lokoja",
+        "location": "Lokoja, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Oko",
+        "location": "Oko, Nigeria"
+    },
+    {
+        "name": "Federal University, Lafia",
+        "location": "Lafia, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Nasarawa",
+        "location": "Nasarawa, Nigeria"
+    },
+    {
+        "name": "Federal University, Dutsin-Ma",
+        "location": "Dutsin-Ma, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Auchi",
+        "location": "Auchi, Nigeria"
+    },
+    {
+        "name": "Federal University, Gashua",
+        "location": "Gashua, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ekowe",
+        "location": "Ekowe, Nigeria"
+    },
+    {
+        "name": "Federal University, Ndifu-Alike",
+        "location": "Ndifu-Alike, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ile-Oluji",
+        "location": "Ile-Oluji, Nigeria"
+    },
+    {
+        "name": "Federal University, Otuoke",
+        "location": "Otuoke, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Kaura-Namoda",
+        "location": "Kaura-Namoda, Nigeria"
+    },
+    {
+        "name": "Federal University, Birnin Kebbi",
+        "location": "Birnin Kebbi, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Offa",
+        "location": "Offa, Nigeria"
+    },
+    {
+        "name": "Federal University, Gusau",
+        "location": "Gusau, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ado-Hd",
+        "location": "Ado-Ekiti, Nigeria"
+    },
+    {
+        "name": "Federal University, Kashere",
+        "location": "Kashere, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Nasarawa",
+        "location": "Nasarawa, Nigeria"
+    },
+    {
+        "name": "Federal University, Dutsin-Ma",
+        "location": "Dutsin-Ma, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Auchi",
+        "location": "Auchi, Nigeria"
+    },
+    {
+        "name": "Federal University, Gashua",
+        "location": "Gashua, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ekowe",
+        "location": "Ekowe, Nigeria"
+    },
+    {
+        "name": "Federal University, Ndifu-Alike",
+        "location": "Ndifu-Alike, Nigeria"
+    },
+    {
+        "name": "Federal Polytechnic, Ile-Oluji",
+        "location": "Ile-Oluji, Nigeria"
+    },
+    {
+        "name": "Federal University, Otuoke",
+        "location": "Otuoke, Nigeria"
     }
-    
 ]
